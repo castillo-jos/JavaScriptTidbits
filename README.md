@@ -1,1 +1,1 @@
-# JAvaScriptTidbits
+# JavaScriptTidbits
